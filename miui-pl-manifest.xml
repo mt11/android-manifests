@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote  name="gh" fetch="https://github.com/" />
+  	<project path="XML_MIUI-4.0" name="Acid-miuipolskapl/XML_MIUI-4.0" remote="gh" revision="master" />
+	<project path="patchrom_miui" name="Acid-miuipolskapl/patchrom_miui" remote="gh" revision="ics" />
+</manifest>
