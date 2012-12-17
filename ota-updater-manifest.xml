@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote  name="gh" fetch="https://github.com/" />
+  	<project path="ota-updater-2.0" name="OTAUpdateCenter/ota-updater-2.0" remote="gh" revision="master" />
+	<project path="ota-update-centre" name="OTAUpdateCenter/ota-update-centre" remote="gh" revision="master" />
+</manifest>
