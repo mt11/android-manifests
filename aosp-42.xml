@@ -360,8 +360,8 @@
   <project path="system/core" name="Andromadus/android_system_core" remote="github" revision="jb4.2" />
   <project path="system/extras" name="Andromadus/android_system_extras" remote="github" revision="jb4.2" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" remote="github" revision="jb4.2" />
-  <project path="packages/apps/DeskClock" name="Andromadus/android_packages_apps_DeskClock" remote="github" revision="jb4.2" />
-  <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="github" revision="jb4.2" />
+  <project path="packages/apps/DeskClock" name="Andromadus/android_packages_apps_DeskClock" remote="github" revision="cm10.1" />
+  <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="github" revision="cm10.1" />
   <project path="external/chromium" name="Andromadus/android_external_chromium" remote="github" revision="jb4.2" />
   <project path="external/wpa_supplicant_8" name="Andromadus/android_external_wpa_supplicant_8" remote="github" revision="jb4.2" />
   <project path="system/vold" name="Andromadus/android_system_vold" remote="github" revision="jb4.2" />
