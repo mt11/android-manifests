@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/" />
+
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <remote  name="cm"
+           fetch="https://github.com/"
+           review="review.cyanogenmod.com" />
+
+  <remote name="kxp"
+           fetch="https://github.com/"
+           revision="jb"
+           review="smartdev.com.pl:8080" />
+
+  <remote name="fxp"
+           fetch="https://github.com/"
+           revision="jellybean"
+           review="review.cyanogenmod.com" />
+
+  <default revision="refs/tags/android-4.2.2_r1"
+           remote="aosp"
+           sync-j="4" />
+
+  <project path="abi/cpp" name="Andromadus/android_frameworks_native" revision="9822b47d267ef58a04a47634c2d28eabb7055393"/>
+  
+
+</manifest>
